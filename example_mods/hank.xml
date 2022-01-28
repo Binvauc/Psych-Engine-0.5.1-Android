@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hank.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hank Down Note0000" x="5" y="5" width="531" height="483" frameX="-12" frameY="0" frameWidth="543" frameHeight="654"/>
+	<SubTexture name="Hank Down Shoot0000" x="546" y="5" width="865" height="431" frameX="-12" frameY="0" frameWidth="1011" frameHeight="606"/>
+	<SubTexture name="Hank Idle0000" x="5" y="514" width="435" height="538" frameX="0" frameY="0" frameWidth="427" frameHeight="595"/>
+	<SubTexture name="Hank Left Note0000" x="546" y="446" width="643" height="496" frameX="-94" frameY="0" frameWidth="744" frameHeight="610"/>
+	<SubTexture name="Hank Left Shoot0000" x="1199" y="514" width="752" height="486" frameX="0" frameY="0" frameWidth="834" frameHeight="610"/>
+	<SubTexture name="Hank Up note0000" x="5" y="1148" width="423" height="551" frameX="0" frameY="0" frameWidth="417" frameHeight="601"/>
+	<SubTexture name="Hank Up shoot0000" x="1884" y="1148" width="797" height="538" frameX="0" frameY="0" frameWidth="938" frameHeight="601"/>
+	<SubTexture name="Hank right note0000" x="450" y="1010" width="616" height="511" frameX="-24" frameY="0" frameWidth="631" frameHeight="603"/>
+	<SubTexture name="Hank right shoot0000" x="1961" y="5" width="894" height="525" frameX="-1" frameY="0" frameWidth="971" frameHeight="603"/>
+	<SubTexture name="Hank screamright0000" x="1076" y="1010" width="798" height="512" frameX="0" frameY="0" frameWidth="819" frameHeight="603"/>
+	<SubTexture name="HankGetReady0000" x="1421" y="5" width="420" height="499" frameX="-14" frameY="-16" frameWidth="539" frameHeight="529"/>
+	<SubTexture name="hanktaunt0000" x="1961" y="540" width="770" height="598" frameX="-164" frameY="-83" frameWidth="768" frameHeight="565"/>
+</TextureAtlas>

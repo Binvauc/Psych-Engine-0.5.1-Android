@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hankscared.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="HankScaredIdle0000" x="125" y="5" width="495" height="585" frameX="0" frameY="0" frameWidth="487" frameHeight="593"/>
+	<SubTexture name="HankScaredShootsTiky0000" x="630" y="5" width="638" height="603" frameX="0" frameY="-325" frameWidth="991" frameHeight="920"/>
+</TextureAtlas>
